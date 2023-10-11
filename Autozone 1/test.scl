@@ -1,0 +1,10 @@
+﻿FUNCTION_BLOCK "test"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+
+BEGIN
+	// Live Program
+	// /addition to beta from another user
+	// test from main
+END_FUNCTION_BLOCK
+
